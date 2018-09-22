@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e04f98ca-77fe-49b0-b3c9-5521aa138943" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="30942615">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="SortedList" value="24" />
+          <entry key="StringCountDouble" value="132" />
+          <entry key="StringwordCounter" value="429" />
+          <entry key="dummy" value="66" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="3311" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="3896" />
+          <entry key="PLAIN_TEXT" value="66" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="SortedList" value="2" />
+          <entry key="StringCountDouble" value="1" />
+          <entry key="StringMatcher" value="1" />
+          <entry key="StringwordCounter" value="1" />
+          <entry key="iml" value="4" />
+          <entry key="java" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="4" />
+          <entry key="JAVA" value="32" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-165570889">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="22" />
+          <entry key="java" value="3438" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3438" />
+          <entry key="PLAIN_TEXT" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="12" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Maintest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-690">
+              <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#213#214#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#356#357#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#464#465#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/company</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/CharCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CharChanger.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/CharChangerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/HarryChecker.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/HarryCheckerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/CharCounter.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/StringTransposerTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringSorter.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/StringSorterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringMatcher.java" />
+        <option value="$PROJECT_DIR$/src/com/company/sdfd.java" />
+        <option value="$PROJECT_DIR$/src/com/company/AscendigOrder.java" />
+        <option value="$PROJECT_DIR$/JavaPractice4.iml" />
+        <option value="$PROJECT_DIR$/src/com/company/StringwordCounter" />
+        <option value="$PROJECT_DIR$/src/com/company/StringCounter" />
+        <option value="$PROJECT_DIR$/src/com/company/StringCountDouble" />
+        <option value="$PROJECT_DIR$/src/com/company/StringDouble" />
+        <option value="$PROJECT_DIR$/src/com/company/sfsd.java" />
+        <option value="$PROJECT_DIR$/src/com/company/SortedList" />
+        <option value="$PROJECT_DIR$/src/com/company/ListSorter" />
+        <option value="$PROJECT_DIR$/src/com/company/StringTransposer.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/StringMatcherTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ListManipulator.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/ListManipulatorTest.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/StringCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringCounter.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/ListSorterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/ListSorter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringCountDouble.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/StringDoubleCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/StringDoubleCounter.java" />
+        <option value="$PROJECT_DIR$/src/com/company/MapEditor.java" />
+        <option value="$PROJECT_DIR$/tests/com/company/MapEditorTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Student.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Maintest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="1141" />
+    <option name="height" value="446" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaPractice5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice5" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice5" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaPractice5" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaPractice5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537653685702" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Maintest">
+    <configuration name="Maintest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Maintest" />
+      <module name="JavaPractice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDoubleCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.StringDoubleCounter" />
+      <module name="JavaPractice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapEditorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MapEditorTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapEditorTest.editMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.MapEditorTest" />
+      <option name="METHOD_NAME" value="editMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringDoubleCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaPractice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.StringDoubleCounterTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StringDoubleCounter" />
+      <item itemvalue="JUnit.StringDoubleCounterTest" />
+      <item itemvalue="JUnit.MapEditorTest" />
+      <item itemvalue="JUnit.MapEditorTest.editMap" />
+      <item itemvalue="Application.Maintest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Maintest" />
+        <item itemvalue="JUnit.MapEditorTest" />
+        <item itemvalue="JUnit.MapEditorTest.editMap" />
+        <item itemvalue="JUnit.StringDoubleCounterTest" />
+        <item itemvalue="Application.StringDoubleCounter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e04f98ca-77fe-49b0-b3c9-5521aa138943" name="Default Changelist" comment="" />
+      <created>1537333309642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537333309642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StringDoubleCounterTest - 2018.09.23 at 02h 11m 10s.xml">
+      <configuration name="StringDoubleCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDoubleCounterTest - 2018.09.23 at 02h 12m 55s.xml">
+      <configuration name="StringDoubleCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDoubleCounterTest - 2018.09.23 at 02h 13m 27s.xml">
+      <configuration name="StringDoubleCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDoubleCounterTest - 2018.09.23 at 02h 16m 08s.xml">
+      <configuration name="StringDoubleCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDoubleCounterTest - 2018.09.23 at 02h 20m 58s.xml">
+      <configuration name="StringDoubleCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDoubleCounterTest - 2018.09.23 at 02h 24m 57s.xml">
+      <configuration name="StringDoubleCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDoubleCounterTest - 2018.09.23 at 02h 26m 17s.xml">
+      <configuration name="StringDoubleCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringDoubleCounterTest - 2018.09.23 at 02h 26m 27s.xml">
+      <configuration name="StringDoubleCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapEditorTest_editMap - 2018.09.23 at 02h 38m 53s.xml">
+      <configuration name="MapEditorTest.editMap" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MapEditorTest - 2018.09.23 at 02h 39m 21s.xml">
+      <configuration name="MapEditorTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26656026" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2543171" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3987441" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32967034" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tests/com/company/CharChangerTest.java" />
+    <entry file="file://$PROJECT_DIR$/tests/com/company/HarryCheckerTest.java" />
+    <entry file="file://$PROJECT_DIR$/tests/com/company/StringTransposerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/StringMatcher" />
+    <entry file="file://$PROJECT_DIR$/JavaPractice4.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/jdk/internal/util/Preconditions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/sfsd.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/CharCounter.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/CharChanger.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringMatcher.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringTransposer.java" />
+    <entry file="file://$PROJECT_DIR$/tests/com/company/StringMatcherTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringSorter.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/HarryChecker.java" />
+    <entry file="file://$PROJECT_DIR$/tests/com/company/CharCounterTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/company/ListManipulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/com/company/StringSorterTest.java" />
+    <entry file="file://$PROJECT_DIR$/tests/com/company/ListManipulatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/com/company/StringCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/ListSorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
+          <folding>
+            <element signature="e#215#223#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/com/company/ListSorterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/StringDoubleCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/com/company/StringDoubleCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MapEditor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/com/company/MapEditorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#503#519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Maintest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-690">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#213#214#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#356#357#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#425#426#0" expanded="true" />
+            <element signature="e#464#465#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>JavaPractice4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
